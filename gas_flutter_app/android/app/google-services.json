@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426131875475",
+    "firebase_url": "https://bmwebloginproject.firebaseio.com",
+    "project_id": "bmwebloginproject",
+    "storage_bucket": "bmwebloginproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426131875475:android:c1403dc0e187ee543c0f66",
+        "android_client_info": {
+          "package_name": "co.quanngovan.gas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426131875475-renqttbp1ofqb6hvudd6gm4d27hubblb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBldkuQVZqF0d2yYZlI73ZmYDnqm-RWZvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426131875475-renqttbp1ofqb6hvudd6gm4d27hubblb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
